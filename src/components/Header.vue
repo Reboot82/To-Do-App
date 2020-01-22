@@ -1,7 +1,7 @@
 <template>
     <header class="row">
         <nav class="navbar navbar-toggleable-md navbar-light">
-            <a class="navbar-brand" href="/">Much To-Do About Nothing</a>
+            <a class="navbar-brand" href="/">To-Do</a>
             <ul class="navbar-nav">
                 <li class="nav-item">
                     <a class="nav-link" href="">home</a>
